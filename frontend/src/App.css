@@ -1,5 +1,9 @@
 :root {
-  font-family: Inter, system-ui, -apple-system, sans-serif;
+  font-family:
+    Inter,
+    system-ui,
+    -apple-system,
+    sans-serif;
   color: #111827;
   background-color: #f8fafc;
 }
@@ -202,6 +206,7 @@ body,
 
 .report-header h2 {
   margin: 0;
+  color: #000000;
 }
 
 .report-meta {
