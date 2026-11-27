@@ -1,0 +1,179 @@
+{
+  "company": "Sun Pharmaceutical Industries Limited",
+  "symbol": "SUNPHARMA",
+  "quarter": "Q2 FY27",
+  "call_date": "October 30, 2026",
+  "tldr": [
+    {
+      "claim": "During the second quarter of FY27, sales were at INR1,61,000 million, registering a growth of 11.8% vis-a-vis Q2 FY26.",
+      "speaker": "Jayashree Satagopan",
+      "page": 3,
+      "quote": "During the second quarter of FY27, sales were at INR1,61,000 million, registering a growth of 11.8% vis-a-vis Q2 FY26.",
+      "category": "metric"
+    },
+    {
+      "claim": "Gross margin was at 80.8% for the quarter, higher than the same period last year.",
+      "speaker": "Jayashree Satagopan",
+      "page": 3,
+      "quote": "Gross margin was at 80.8% for the quarter, higher than the same period last year, largely on account of a better product mix and favorable currency tailwinds.",
+      "category": "metric"
+    },
+    {
+      "claim": "EBITDA for the quarter was INR47,439 million, an increase of 4.8% over Q2 last year, with EBITDA margins at 29.3%.",
+      "speaker": "Jayashree Satagopan",
+      "page": 4,
+      "quote": "EBITDA for the quarter was INR47,439 million, an increase of 4.8% over Q2 last year. EBITDA margins came in at 29.3%.",
+      "category": "metric"
+    },
+    {
+      "claim": "Reported net profit after tax for Q2 FY27 was INR19,885 million, while adjusted net profit for the quarter was INR31,620 million.",
+      "speaker": "Jayashree Satagopan",
+      "page": 4,
+      "quote": "Reported net profit after tax for Q2 FY27 was INR19,885 million, while adjusted net profit for the quarter was INR31,620 million.",
+      "category": "metric"
+    }
+  ],
+  "management_commentary": [
+    {
+      "claim": "Sun Pharma launched 15 new products in India for Q2 FY27.",
+      "speaker": "Kirti Ganorkar",
+      "page": 5,
+      "quote": "For Q2 FY27, the company launched 15 new products in India.",
+      "category": "management"
+    },
+    {
+      "claim": "The company voluntarily initiated a temporary cessation of manufacturing activities for 11 ophthalmic products from its Assam plant and informed the Indian regulator.",
+      "speaker": "Kirti Ganorkar",
+      "page": 14,
+      "quote": "what I can say is that there are 11 ophthalmology products, which we have voluntarily recalled. And we voluntarily initiated a temporary cessation of our manufacturing activities, and we have kept the Indian regulator informed about it.",
+      "category": "management"
+    }
+  ],
+  "key_metrics": [
+    {
+      "claim": "EPS for the quarter was INR8.3 per share.",
+      "speaker": "Jayashree Satagopan",
+      "page": 4,
+      "quote": "EPS for the quarter was INR8.3 per share.",
+      "category": "metric"
+    },
+    {
+      "claim": "Effective tax rate for the quarter was 28.3% versus 24.7% in Q2 FY26.",
+      "speaker": "Jayashree Satagopan",
+      "page": 4,
+      "quote": "Effective tax rate for the quarter was 28.3% versus 24.7% in Q2 FY26.",
+      "category": "metric"
+    },
+    {
+      "claim": "Net cash was USD3.3 billion at the consolidated level at the end of the quarter.",
+      "speaker": "Jayashree Satagopan",
+      "page": 4,
+      "quote": "Balance sheet continues to be strong with a net cash of USD3.3 billion at the consolidated level.",
+      "category": "metric"
+    },
+    {
+      "claim": "For the first half of FY27, sales were at INR3,12,836 million, registering a growth of 11% over H1 last year.",
+      "speaker": "Jayashree Satagopan",
+      "page": 4,
+      "quote": "For the first half, sales were at INR3,12,836 million, registering a growth of 11% over the first half last year.",
+      "category": "metric"
+    }
+  ],
+  "segment_performance": [
+    {
+      "claim": "In Q2 FY27, Innovative Medicines sales were up 6.9% to reach USD356 million, accounting to 21.1% of Sun sales.",
+      "speaker": "Kirti Ganorkar",
+      "page": 4,
+      "quote": "In Q2 FY27, our Innovative Medicines sales were up 6.9% to reach USD356 million. The business accounted for 21.1% of Sun sales for the quarter.",
+      "category": "segment"
+    },
+    {
+      "claim": "India formulations sales were INR55,523 million for the quarter, recording a growth of 17.3% and accounting for 34.5% of total consolidated sales.",
+      "speaker": "Kirti Ganorkar",
+      "page": 5,
+      "quote": "The sales of India formulations were INR55,523 million for the quarter, recording a growth of 17.3%. India sales accounted for 34.5% of total consolidated sales for the quarter.",
+      "category": "segment"
+    },
+    {
+      "claim": "Overall US business reported sales of USD455 million for the quarter, declining by 8.2% largely due to lenalidomide erosion.",
+      "speaker": "Richard Ascroft",
+      "page": 5,
+      "quote": "Overall, the US business reported sales of USD455 million for the quarter, declining by 8.2%. This decline is largely due to lenalidomide erosion.",
+      "category": "segment"
+    },
+    {
+      "claim": "Formulation revenue in Emerging Markets reached USD350 million, up by 7.6% over Q2 last year, accounting for 20.7% of total consolidated revenue.",
+      "speaker": "Kirti Ganorkar",
+      "page": 6,
+      "quote": "Our formulation revenue in Emerging Markets were USD350 million, up by 7.6% over Q2 last year. The underlying growth in a constant currency term was 7.4%. Emerging markets accounted for 20.7% of total consolidated revenue for Q2.",
+      "category": "segment"
+    }
+  ],
+  "guidance_outlook": [],
+  "notable_qa": [
+    {
+      "analyst": "Dr. Kunal Dhamesha",
+      "firm": "Macquarie Capital",
+      "question": "Analyst inquired about the drivers behind the growth slowdown of Ilumya in the US, corrective actions taken, and the timeline for recovery.",
+      "answer": "Management stated they identified key issues, put interventions in place, and combined with the psoriatic arthritis launch, expect Ilumya to return to typical growth patterns over the next few quarters.",
+      "page": 7,
+      "supporting_quotes": [
+        "First one on the slowdown in growth for Ilumya in US Rick, can you highlight what is driving that?",
+        "Yes, I don't want to get into the -- all the details, but we have identified a few key things that have led to the slowdown.",
+        "Over the next few quarters."
+      ]
+    },
+    {
+      "analyst": "Vishal Manchanda",
+      "firm": "Systematix",
+      "question": "Did the Indian drug regulator ask Sun Pharma to discontinue ophthalmic production at its Assam plant, and will it impact numbers?",
+      "answer": "Management did not comment on media reports but confirmed a voluntary recall of 11 ophthalmology products and a voluntary temporary cessation of manufacturing activities with the Indian regulator informed.",
+      "page": 14,
+      "supporting_quotes": [
+        "Can you comment whether this is true and whether this would have any material adverse impact on our numbers?",
+        "there are 11 ophthalmology products, which we have voluntarily recalled. And we voluntarily initiated a temporary cessation of our manufacturing activities"
+      ]
+    }
+  ],
+  "risks": [
+    {
+      "risk": "Slowdown in Ilumya business in the US driven by a mix of factors affecting global innovative medicines growth.",
+      "risk_category": "operational",
+      "source_type": "management_acknowledged",
+      "speaker": "Richard Ascroft",
+      "page": 5,
+      "quote": "This quarter, we saw a slowdown in Ilumya business in the US driven by a mix of factors. This is a key reason behind slower growth in global innovative medicines."
+    },
+    {
+      "risk": "Slowdown in growth for Ilumya in the US market.",
+      "risk_category": "operational",
+      "source_type": "analyst_raised",
+      "speaker": "Dr. Kunal Dhamesha",
+      "page": 7,
+      "quote": "First one on the slowdown in growth for Ilumya in US Rick, can you highlight what is driving that?"
+    },
+    {
+      "risk": "Voluntary recall of 11 ophthalmology products and temporary cessation of manufacturing activities at the Assam plant.",
+      "risk_category": "regulatory",
+      "source_type": "management_acknowledged",
+      "speaker": "Kirti Ganorkar",
+      "page": 14,
+      "quote": "what I can say is that there are 11 ophthalmology products, which we have voluntarily recalled. And we voluntarily initiated a temporary cessation of our manufacturing activities, and we have kept the Indian regulator informed about it."
+    }
+  ],
+  "strategic_commitments": [
+    {
+      "claim": "Sun Pharma will extend Most Favored Nation pricing to state Medicaid programs.",
+      "speaker": "Rick",
+      "page": 6,
+      "quote": "As part of the agreement, Sun Pharma will extend Most Favored Nation pricing to state Medicaid programs.",
+      "category": "strategic_commitment"
+    }
+  ],
+  "limitations": [
+    "Chunk-level validation rejected 2 facts, 0 Q&A items, and 0 risks."
+  ],
+  "scrip_code": "524715",
+  "source": "NSE",
+  "source_url": ""
+}

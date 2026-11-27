@@ -1,0 +1,184 @@
+{
+  "company": "Infosys Limited",
+  "symbol": "INFY",
+  "quarter": "Q2 FY27",
+  "call_date": "October 23, 2026",
+  "tldr": [
+    {
+      "claim": "Q2 revenue growth was 1.5% YoY and 1.2% sequentially in constant currency terms.",
+      "speaker": "Salil Parekh",
+      "page": 4,
+      "quote": "Our revenue growth for Q2 was 1.5% YoY and 1.2% sequentially in constant currency terms.",
+      "category": "metric"
+    },
+    {
+      "claim": "AI revenue reached 10.5% of total revenue in Q2, growing 29% sequentially.",
+      "speaker": "Salil Parekh",
+      "page": 4,
+      "quote": "AI revenue was a standout at 10.5% of our revenue, growing at 29% sequentially. And last quarter, it was at 8.2%.",
+      "category": "metric"
+    },
+    {
+      "claim": "Large deals for the quarter stood at $5.2 billion, including two mega deals.",
+      "speaker": "Salil Parekh",
+      "page": 4,
+      "quote": "Large deals were another standout at $5.2 bn for the quarter. This includes two mega deals.",
+      "category": "metric"
+    },
+    {
+      "claim": "Annual revenue growth guidance is revised to 1% to 2% YoY in constant currency terms.",
+      "speaker": "Salil Parekh",
+      "page": 4,
+      "quote": "Based on our Q2 performance and revised outlook for rest of the year, our revenue growth guidance is 1% to 2% YoY.in constant currency terms.",
+      "category": "guidance"
+    },
+    {
+      "claim": "Operating margin for Q2 was stable at 21%.",
+      "speaker": "Salil Parekh",
+      "page": 4,
+      "quote": "Operating margin was stable at 21%.",
+      "category": "metric"
+    }
+  ],
+  "management_commentary": [
+    {
+      "claim": "Offshore percentages and disciplined deal selection impacted revenue comparisons.",
+      "speaker": "Salil Parekh",
+      "page": 47,
+      "quote": "with the changes in the global environment, we have seen our offshore percentages higher. That had an effect, even though the volume remains more similar, the revenue looks a little bit different. And we have also had where we have been -- which we have shared that we have been a little bit more disciplined on some client situations where we have chosen not to take some deals where the economics did not make sense.",
+      "category": "management"
+    }
+  ],
+  "key_metrics": [
+    {
+      "claim": "Free cash flow was $928 million for the quarter.",
+      "speaker": "Salil Parekh",
+      "page": 4,
+      "quote": "Free cash flow was strong at $928 mn (Editor’s comment) for the quarter.",
+      "category": "metric"
+    },
+    {
+      "claim": "Employee attrition stands at roughly 13%, representing about 45,000 people leaving annually.",
+      "speaker": "Jayesh Sanghrajka",
+      "page": 8,
+      "quote": "We have, give or take, 13% attrition. That means roughly 45,000 people in a year, they leave us, and that needs to be backfilled either laterally or fresher.",
+      "category": "metric"
+    },
+    {
+      "claim": "Employee utilization is operating at an optimum level of 85%.",
+      "speaker": "Jayesh Sanghrajka",
+      "page": 8,
+      "quote": "We are working at 85% utilization, which is, in our mind, very optimum utilization.",
+      "category": "metric"
+    },
+    {
+      "claim": "EPS for the quarter stood at 19.32 rupees, up 8.7% YoY, and H1 EPS stood at 38.51 rupees, up 11.7%.",
+      "speaker": "Not identified",
+      "page": 28,
+      "quote": "EPS for the quarter stood at `19.32, up 8.7% on a Y-on-Y basis. H1 EPS stood at `38.51, a doubledigit growth of 11.7%.",
+      "category": "metric"
+    },
+    {
+      "claim": "Cash and cash equivalents ended at $4.7 bn with a debt-free balance sheet.",
+      "speaker": "Not identified",
+      "page": 28,
+      "quote": "We ended the quarter with cash and cash equivalents at $4.7 bn and a debt-free balance sheet.",
+      "category": "metric"
+    }
+  ],
+  "segment_performance": [],
+  "guidance_outlook": [
+    {
+      "claim": "Operating margin guidance remains at 20% to 22% for the year.",
+      "speaker": "Salil Parekh",
+      "page": 4,
+      "quote": "Our operating margin guidance remains at 20% to 22% for the year.",
+      "category": "guidance"
+    },
+    {
+      "claim": "The full year hiring target is approximately 20,000.",
+      "speaker": "Salil Parekh",
+      "page": 8,
+      "quote": "For the full year, our target remains clear at approximately 20,000, so around 20,000 like last year.",
+      "category": "guidance"
+    },
+    {
+      "claim": "Effective tax rate for the year is expected to be in the range of 29% to 30%.",
+      "speaker": "Not identified",
+      "page": 28,
+      "quote": "We expect effective tax rate for the year to be in the range of 29% to 30%.",
+      "category": "guidance"
+    }
+  ],
+  "notable_qa": [
+    {
+      "analyst": "Chandra Srikanth",
+      "firm": "Moneycontrol",
+      "question": "Despite a healthy TCV, why did management narrow the guidance band, and what opportunities and challenges does Infosys see in securing enterprise systems against AI-driven cyber attacks?",
+      "answer": "Management explained that guidance reflects strong AI growth and mega deals, offset by AI productivity impacts, competitive intensity, changing offshore ratios, and selective contract choices based on economic thresholds.",
+      "page": 9,
+      "supporting_quotes": [
+        "Despite a healthy TCV, why did you sort of narrow the guidance band?"
+      ]
+    },
+    {
+      "analyst": "Bryan Bergin",
+      "firm": "TD Cowen",
+      "question": "What changed most in the growth guidance revision versus last quarter, and what are the largest drivers?",
+      "answer": "Management cited pricing pressure from competitive intensity, softer than expected volume growth, and slower discretionary spend in Retail and Hi-Tech sectors.",
+      "page": 32,
+      "supporting_quotes": [
+        "If you look at what we are seeing today is a pricing pressure on the back of competitive intensity, which has increased in the last couple of quarters.",
+        "We saw softer than expected revenue growth or a volume growth in the quarter. So that was the second reason. And slower discretionary spend in some of the sectors, especially the Retail and HiTech that we called out."
+      ]
+    }
+  ],
+  "risks": [
+    {
+      "risk": "Softer Q2 volumes, competitive intensity, and pricing pressure leading to downward guidance revision.",
+      "risk_category": "macroeconomic",
+      "source_type": "management_acknowledged",
+      "speaker": "Jayesh Sanghrajka",
+      "page": 6,
+      "quote": "Our Q2 has been softer and our volume continues to remain softer. We have also seen pricing pressure on the back of competitive intensity and higher ask on productivity."
+    },
+    {
+      "risk": "Discretionary spending softness in Retail and Hi-Tech sectors.",
+      "risk_category": "macroeconomic",
+      "source_type": "management_acknowledged",
+      "speaker": "Jayesh Sanghrajka",
+      "page": 6,
+      "quote": "On top of that, as Salil said, some of the sectors, we see softness, Retail, Hi-Tech, where the discretionary is lower than what we are expecting."
+    },
+    {
+      "risk": "Expected margin headwinds in the second half from compensation hikes and continued pricing intensity.",
+      "risk_category": "nim_margin",
+      "source_type": "management_acknowledged",
+      "speaker": "Jayesh Sanghrajka",
+      "page": 6,
+      "quote": "As you look forward, the next half, which is H2, we will have impact coming from compensation, as you rightly said, so that will have a headwind. We will see continued intensity on pricing."
+    }
+  ],
+  "strategic_commitments": [
+    {
+      "claim": "Capital allocation policy aims to return 85% of free cash flow back to shareholders over a five-year period through a combination of dividend and buyback.",
+      "speaker": "Jayesh Sanghrajka",
+      "page": 23,
+      "quote": "So, I think if you look at our capital allocation policy that we rolled out almost two years back, we had very clearly said that 85% of the free cash flow that we generate, we will return back to shareholders over a five-year period.",
+      "category": "strategic_commitment"
+    },
+    {
+      "claim": "The Topaz Fabric features 15 different foundation models for client selection.",
+      "speaker": "Salil Parekh",
+      "page": 45,
+      "quote": "We have the ability in that Topaz Fabric where we have 15 different foundation models where a client can choose different foundation models",
+      "category": "strategic_commitment"
+    }
+  ],
+  "limitations": [
+    "Chunk-level validation rejected 11 facts, 12 Q&A items, and 11 risks."
+  ],
+  "scrip_code": "500209",
+  "source": "NSE",
+  "source_url": ""
+}

@@ -1,0 +1,37 @@
+{
+  "company": "Maruti Suzuki India Limited",
+  "symbol": "MARUTI",
+  "scrip_code": "532500",
+  "quarter": "Not identified",
+  "call_date": "Not identified",
+  "source": "NSE",
+  "source_url": "https://nsearchives.nseindia.in/corporate/MARUTIASHISH_02112026210459_Transcript_27Oct026.pdf",
+  "tldr": [
+    {
+      "claim": "Maruti Suzuki India Limited held an investors call on 27th October 2026 on the financial results for the quarter ended 30th September 2026.",
+      "speaker": "Sanjeev Grover",
+      "page": 1,
+      "quote": "The transcript of investors’ call held on 27th October 2026 on the financial results for the quarter ended on 30th September 2026, has been uploaded on the Company’s website",
+      "category": "management"
+    }
+  ],
+  "management_commentary": [
+    {
+      "claim": "Maruti Suzuki India Limited held an investors call on 27th October 2026 on the financial results for the quarter ended 30th September 2026.",
+      "speaker": "Sanjeev Grover",
+      "page": 1,
+      "quote": "The transcript of investors’ call held on 27th October 2026 on the financial results for the quarter ended on 30th September 2026, has been uploaded on the Company’s website",
+      "category": "management"
+    }
+  ],
+  "key_metrics": [],
+  "segment_performance": [],
+  "guidance_outlook": [],
+  "notable_qa": [],
+  "risks": [],
+  "strategic_commitments": [],
+  "limitations": [
+    "The extracted evidence contains very limited information regarding key metrics, segment performance, guidance, risks, and strategic commitments.",
+    "Chunk-level validation rejected 0 facts, 0 Q&A items, and 0 risks."
+  ]
+}

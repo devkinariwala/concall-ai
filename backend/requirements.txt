@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+google-genai
+httpx
+requests
+PyMuPDF
+pdfplumber
+SQLAlchemy
+APScheduler
+tenacity
+python-multipart
+pytest
